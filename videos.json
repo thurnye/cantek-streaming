@@ -1,63 +1,63 @@
 {
     "data": [
     {
-      "name": "Video 1",
-      "link": "https://www.youtube.com/watch?v=nwnq9FW017E",
-      "id": "videoPlayer1",
-      "thumbnail": "https://i.ytimg.com/vi/nwnq9FW017E/maxresdefault.jpg"
+        "name": "Bobby Valentino - Slowdown",
+        "link": "https://youtu.be/Z6NzwMif0fA?si=tC4ghY0VfC7JaZbu",
+        "id": "videoPlayer1",
+        "thumbnail": "https://unsplash.com/photos/round-black-vinyl-disc-on-vinyl-player-5gn2soeAc40"
     },
     {
-      "name": "Video 2",
-      "link": "https://www.youtube.com/watch?v=pJiJn_LS1z8",
-      "id": "videoPlayer2",
-      "thumbnail": "https://i.ytimg.com/vi/pJiJn_LS1z8/maxresdefault.jpg"
+        "name": "Video 2",
+        "link": "https://youtu.be/i_vMte-NHkY?si=5KVUzXbG-b8BQwMM",
+        "id": "videoPlayer2",
+        "thumbnail": "https://unsplash.com/photos/round-black-vinyl-disc-on-vinyl-player-5gn2soeAc40"
     },
     {
-      "name": "Video 3",
-      "link": "https://www.youtube.com/watch?v=Bm5iA4ZupeY",
-      "id": "videoPlayer3",
-      "thumbnail": "https://i.ytimg.com/vi/Bm5iA4ZupeY/maxresdefault.jpg"
+        "name": "Video 3",
+        "link": "https://youtu.be/x3bfa3DZ8JM?si=foivX6LmmXg8E3LF",
+        "id": "videoPlayer3",
+        "thumbnail": "https://unsplash.com/photos/round-black-vinyl-disc-on-vinyl-player-5gn2soeAc40"
     },
     {
-      "name": "Video 4",
-      "link": "https://www.youtube.com/watch?v=fNSdK-0C0ic",
-      "id": "videoPlayer4",
-      "thumbnail": "https://i.ytimg.com/vi/fNSdK-0C0ic/maxresdefault.jpg"
+        "name": "Video 4",
+        "link": "https://youtu.be/ZAfAud_M_mg?si=WdlyYK4PYFhruqGe",
+        "id": "videoPlayer4",
+        "thumbnail": "https://unsplash.com/photos/round-black-vinyl-disc-on-vinyl-player-5gn2soeAc40"
     },
     {
-      "name": "Video 5",
-      "link": "https://www.youtube.com/watch?v=a2L1u4AJbT0",
-      "id": "videoPlayer5",
-      "thumbnail": "https://i.ytimg.com/vi/a2L1u4AJbT0/maxresdefault.jpg"
+        "name": "Video 5",
+        "link": "https://youtu.be/BXd62mMu1UY?si=0pb8LQf7TZ97-5WL",
+        "id": "videoPlayer5",
+        "thumbnail": "https://unsplash.com/photos/round-black-vinyl-disc-on-vinyl-player-5gn2soeAc40"
     },
     {
-      "name": "Video 6",
-      "link": "https://www.youtube.com/watch?v=ZoV7_3ZoTKw",
-      "id": "videoPlayer6",
-      "thumbnail": "https://i.ytimg.com/vi/ZoV7_3ZoTKw/maxresdefault.jpg"
+        "name": "Video 6",
+        "link": "https://youtu.be/JQbjS0_ZfJ0?si=MPMAyghmqxCmJzSu",
+        "id": "videoPlayer6",
+        "thumbnail": "https://unsplash.com/photos/round-black-vinyl-disc-on-vinyl-player-5gn2soeAc40"
     },
     {
-      "name": "Video 7",
-      "link": "https://www.youtube.com/watch?v=9nQc2gO8u4A",
-      "id": "videoPlayer7",
-      "thumbnail": "https://i.ytimg.com/vi/9nQc2gO8u4A/maxresdefault.jpg"
+        "name": "Video 7",
+        "link": "https://youtu.be/I99qCuWx1mI?si=ephuEJFo3Z9UAssI",
+        "id": "videoPlayer7",
+        "thumbnail": "https://unsplash.com/photos/round-black-vinyl-disc-on-vinyl-player-5gn2soeAc40"
     },
     {
-      "name": "Video 8",
-      "link": "https://www.youtube.com/watch?v=gq0aAozdUx4",
-      "id": "videoPlayer8",
-      "thumbnail": "https://i.ytimg.com/vi/gq0aAozdUx4/maxresdefault.jpg"
+        "name": "Video 8",
+        "link": "https://youtu.be/iXvy8ZeCs5M?si=tQGZcXVohxL4khpy",
+        "id": "videoPlayer8",
+        "thumbnail": "https://unsplash.com/photos/round-black-vinyl-disc-on-vinyl-player-5gn2soeAc40"
     },
     {
-      "name": "Video 9",
-      "link": "https://www.youtube.com/watch?v=sRJt6QJKzx4",
-      "id": "videoPlayer9",
-      "thumbnail": "https://i.ytimg.com/vi/sRJt6QJKzx4/maxresdefault.jpg"
+        "name": "Video 9",
+        "link": "https://youtu.be/q4GJVOMjCC4?si=q3PdXKYAiJcPOq65",
+        "id": "videoPlayer9",
+        "thumbnail": "https://unsplash.com/photos/round-black-vinyl-disc-on-vinyl-player-5gn2soeAc40"
     },
     {
-      "name": "Video 10",
-      "link": "https://www.youtube.com/watch?v=9PJnVwUrWjE",
-      "id": "videoPlayer10",
-      "thumbnail": "https://i.ytimg.com/vi/9PJnVwUrWjE/maxresdefault.jpg"
+        "name": "Video 10",
+        "link": "https://youtu.be/_bptrMV3zHE?si=jZ7i2Cu94sno4D-m",
+        "id": "videoPlayer10",
+        "thumbnail": "https://unsplash.com/photos/round-black-vinyl-disc-on-vinyl-player-5gn2soeAc40"
     }
-  ]}
+]
