@@ -1,0 +1,62 @@
+const videos = [
+    {
+      "name": "Video 1",
+      "link": "https://www.youtube.com/watch?v=nwnq9FW017E",
+      "id": "videoPlayer1",
+      "thumbnail": "https://i.ytimg.com/vi/nwnq9FW017E/maxresdefault.jpg"
+    },
+    {
+      "name": "Video 2",
+      "link": "https://www.youtube.com/watch?v=pJiJn_LS1z8",
+      "id": "videoPlayer2",
+      "thumbnail": "https://i.ytimg.com/vi/pJiJn_LS1z8/maxresdefault.jpg"
+    },
+    {
+      "name": "Video 3",
+      "link": "https://www.youtube.com/watch?v=Bm5iA4ZupeY",
+      "id": "videoPlayer3",
+      "thumbnail": "https://i.ytimg.com/vi/Bm5iA4ZupeY/maxresdefault.jpg"
+    },
+    {
+      "name": "Video 4",
+      "link": "https://www.youtube.com/watch?v=fNSdK-0C0ic",
+      "id": "videoPlayer4",
+      "thumbnail": "https://i.ytimg.com/vi/fNSdK-0C0ic/maxresdefault.jpg"
+    },
+    {
+      "name": "Video 5",
+      "link": "https://www.youtube.com/watch?v=a2L1u4AJbT0",
+      "id": "videoPlayer5",
+      "thumbnail": "https://i.ytimg.com/vi/a2L1u4AJbT0/maxresdefault.jpg"
+    },
+    {
+      "name": "Video 6",
+      "link": "https://www.youtube.com/watch?v=ZoV7_3ZoTKw",
+      "id": "videoPlayer6",
+      "thumbnail": "https://i.ytimg.com/vi/ZoV7_3ZoTKw/maxresdefault.jpg"
+    },
+    {
+      "name": "Video 7",
+      "link": "https://www.youtube.com/watch?v=9nQc2gO8u4A",
+      "id": "videoPlayer7",
+      "thumbnail": "https://i.ytimg.com/vi/9nQc2gO8u4A/maxresdefault.jpg"
+    },
+    {
+      "name": "Video 8",
+      "link": "https://www.youtube.com/watch?v=gq0aAozdUx4",
+      "id": "videoPlayer8",
+      "thumbnail": "https://i.ytimg.com/vi/gq0aAozdUx4/maxresdefault.jpg"
+    },
+    {
+      "name": "Video 9",
+      "link": "https://www.youtube.com/watch?v=sRJt6QJKzx4",
+      "id": "videoPlayer9",
+      "thumbnail": "https://i.ytimg.com/vi/sRJt6QJKzx4/maxresdefault.jpg"
+    },
+    {
+      "name": "Video 10",
+      "link": "https://www.youtube.com/watch?v=9PJnVwUrWjE",
+      "id": "videoPlayer10",
+      "thumbnail": "https://i.ytimg.com/vi/9PJnVwUrWjE/maxresdefault.jpg"
+    }
+  ]
