@@ -1,63 +1,63 @@
 {
-    "data": [
-    {
-      "name": "Video 1",
-      "link": "https://www.youtube.com/watch?v=nwnq9FW017E",
+  "data": [
+  {
+      "name": "Bobby Valentino - Slowdown",
+      "link": "https://www.youtube.com/embed/Z6NzwMif0fA?si=V6gTxYizI0Dz0D5H",
       "id": "videoPlayer1",
-      "thumbnail": "https://i.ytimg.com/vi/nwnq9FW017E/maxresdefault.jpg"
-    },
-    {
-      "name": "Video 2",
-      "link": "https://www.youtube.com/watch?v=pJiJn_LS1z8",
+      "thumbnail": "https://images.unsplash.com/photo-1458560871784-56d23406c091?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name":  "Chris Brown -Heat ft Gunna",
+      "link": "https://www.youtube.com/embed/i_vMte-NHkY?si=9sWxAA9YisrSY5n5",
       "id": "videoPlayer2",
-      "thumbnail": "https://i.ytimg.com/vi/pJiJn_LS1z8/maxresdefault.jpg"
-    },
-    {
-      "name": "Video 3",
-      "link": "https://www.youtube.com/watch?v=Bm5iA4ZupeY",
+      "thumbnail": "https://images.unsplash.com/photo-1458560871784-56d23406c091?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": "Khalid - Better",
+      "link": "https://www.youtube.com/embed/x3bfa3DZ8JM?si=tJ4dxI9sMxmZCUcC",
       "id": "videoPlayer3",
-      "thumbnail": "https://i.ytimg.com/vi/Bm5iA4ZupeY/maxresdefault.jpg"
-    },
-    {
-      "name": "Video 4",
-      "link": "https://www.youtube.com/watch?v=fNSdK-0C0ic",
+      "thumbnail": "https://images.unsplash.com/photo-1458560871784-56d23406c091?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": " Halsey - Without Me",
+      "link": "https://www.youtube.com/embed/ZAfAud_M_mg?si=EUExM3amOokUWoOB",
       "id": "videoPlayer4",
-      "thumbnail": "https://i.ytimg.com/vi/fNSdK-0C0ic/maxresdefault.jpg"
-    },
-    {
-      "name": "Video 5",
-      "link": "https://www.youtube.com/watch?v=a2L1u4AJbT0",
+      "thumbnail": "https://images.unsplash.com/photo-1458560871784-56d23406c091?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": "STORMZY - HIDE & SEEK",
+      "link": "https://www.youtube.com/embed/BXd62mMu1UY?si=lopP_C_4vAbU5kgJ",
       "id": "videoPlayer5",
-      "thumbnail": "https://i.ytimg.com/vi/a2L1u4AJbT0/maxresdefault.jpg"
-    },
-    {
-      "name": "Video 6",
-      "link": "https://www.youtube.com/watch?v=ZoV7_3ZoTKw",
+      "thumbnail": "https://images.unsplash.com/photo-1458560871784-56d23406c091?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": "Kendrick Lamar, SZA - All The Stars",
+      "link": "https://www.youtube.com/embed/JQbjS0_ZfJ0?si=mDvPBFGf34NxqZmh",
       "id": "videoPlayer6",
-      "thumbnail": "https://i.ytimg.com/vi/ZoV7_3ZoTKw/maxresdefault.jpg"
-    },
-    {
-      "name": "Video 7",
-      "link": "https://www.youtube.com/watch?v=9nQc2gO8u4A",
+      "thumbnail": "https://images.unsplash.com/photo-1458560871784-56d23406c091?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": "Kehlani - Nights Like This feat. Ty Dolla $ign",
+      "link": "https://www.youtube.com/embed/I99qCuWx1mI?si=9cGJH0XorU4kwq-f",
       "id": "videoPlayer7",
-      "thumbnail": "https://i.ytimg.com/vi/9nQc2gO8u4A/maxresdefault.jpg"
-    },
-    {
-      "name": "Video 8",
-      "link": "https://www.youtube.com/watch?v=gq0aAozdUx4",
+      "thumbnail": "https://images.unsplash.com/photo-1458560871784-56d23406c091?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": "John Legend - Tonight",
+      "link": "https://www.youtube.com/embed/iXvy8ZeCs5M?si=PETQSz4_okWRSW7i",
       "id": "videoPlayer8",
-      "thumbnail": "https://i.ytimg.com/vi/gq0aAozdUx4/maxresdefault.jpg"
-    },
-    {
-      "name": "Video 9",
-      "link": "https://www.youtube.com/watch?v=sRJt6QJKzx4",
+      "thumbnail": "https://images.unsplash.com/photo-1458560871784-56d23406c091?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": "Miguel - Sure Thing",
+      "link": "https://www.youtube.com/embed/q4GJVOMjCC4?si=_ku1Xw8QlBaQGvbQ",
       "id": "videoPlayer9",
-      "thumbnail": "https://i.ytimg.com/vi/sRJt6QJKzx4/maxresdefault.jpg"
-    },
-    {
-      "name": "Video 10",
-      "link": "https://www.youtube.com/watch?v=9PJnVwUrWjE",
+      "thumbnail": "https://images.unsplash.com/photo-1458560871784-56d23406c091?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": "Yung Bleu - You're Mines Still",
+      "link": "https://www.youtube.com/embed/_bptrMV3zHE?si=GCvpwSYzglefm1qg",
       "id": "videoPlayer10",
-      "thumbnail": "https://i.ytimg.com/vi/9PJnVwUrWjE/maxresdefault.jpg"
-    }
-  ]}
+      "thumbnail": "https://images.unsplash.com/photo-1458560871784-56d23406c091?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]}
